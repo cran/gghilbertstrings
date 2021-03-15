@@ -1,7 +1,7 @@
-9e00951516ef2c7d7d54e62165b4b8b5 *DESCRIPTION
+3605769ba0f2a4e33ed8e581a4777748 *DESCRIPTION
 13130875cce4e452eb50f50ecbb3aeb8 *LICENSE
 e98a26d46ca47f045346a2a950699b47 *NAMESPACE
-2c2e26b6f4f525d0822c6efbb6e6d09a *NEWS.md
+32a01dab1ee187d5f5ee8ea81ffe8f69 *NEWS.md
 e4a0249116969a3ad061780d0015ec29 *R/RcppExports.R
 e5f5370c288b892e5cc198c35c64c553 *R/create_coordinates.R
 6b42d480a9b7dfbc0f142c68f831f376 *R/create_id_column.R
@@ -10,7 +10,7 @@ ba2bdec60b4e38bc19ecd445e2fcf520 *R/gghilbert.R
 e2e256f79d163b9a8649f783eda57fc0 *R/hilbertd2xy.R
 7f5f02bca8ba615da50f4f55bec560e1 *R/utils-pipe.R
 bb49f45977f7de5b829d7d6230b6ece0 *R/zzzz.R
-6fd9534438307b88ebb454fb5d275e2d *README.md
+4341a157324e420c8e15ebd0cf9bcdb0 *README.md
 2dd8d107f6df668ad1fee6c6e529b201 *inst/WORDLIST
 891b77769b22f25eade63860dace8ee8 *man/create_coordinates.Rd
 6f036ffc636fb1b0b6b814017f1a4564 *man/create_id_column.Rd
@@ -21,10 +21,10 @@ bb49f45977f7de5b829d7d6230b6ece0 *R/zzzz.R
 fc1f6bf0ae8dfb7a5bb85378f3136ec9 *man/figures/README-benchmark3-1.png
 a9eb8d79d26163f29426b099d82a5059 *man/figures/README-comp2-1.png
 c5b85879b4fb8e955a58652c1fb28610 *man/figures/README-compplots-1.png
-8cefb2881147230fa48ca9414bf5611e *man/figures/README-example-1.png
-ef28eb2c43f5029a58d9304e5ddd39d1 *man/figures/README-example_flt-1.png
+03bc62c9cad43700aada513ba8db6084 *man/figures/README-example-1.png
+0bf6d75537c89ca4f7ae28724ab7451b *man/figures/README-example_flt-1.png
 448ea6ea391f5cd1240581040441530b *man/figures/README-hilbert-1.png
-0577152cd9448e1354c77c1a65a24eb8 *man/figures/README-output-1.png
+6dae1e13a5e5fa64a93409836d880ac4 *man/figures/README-output-1.png
 745ce4ab37d40fd7574b0c01723b828d *man/figures/README-setupmb-1.png
 cb1e46f469cfbbbde29c8b5113e1d789 *man/figures/lifecycle-archived.svg
 c0d2e5a54f1fa4ff02bf9533079dd1f7 *man/figures/lifecycle-defunct.svg
@@ -39,9 +39,10 @@ c3978703d8f40f2679795335715e98f4 *man/figures/lifecycle-experimental.svg
 b3f2cfdd743b48905d08da9afb8e7dc3 *man/gghilbertstrings-package.Rd
 7086bb2a9d9a563d2f4cf7d819ce45bc *man/hilbertd2xy.Rd
 6166472a3f917a677dfd21be145004ef *man/pipe.Rd
-df6eb33915bd917b200ee80ddb32f47b *src/RcppExports.cpp
-ce77a65337d24399f6cb79145e46b030 *src/code.cpp
+d55b031060837d708b4e34cb7c2b0bca *src/RcppExports.cpp
+6ffbbd558ac14a1768e5933990a76855 *src/code.cpp
 0622a97a2aaa3c342f09636052c2d7f5 *tests/spelling.R
 d423506e2b33e3866285c54af3ee674a *tests/testthat.R
+233e152d7bd41778523eb4e779b4b79c *tests/testthat/Rplots.pdf
 e5cd6d25709ff24a055b96c045cd22ac *tests/testthat/test-gghilbert.R
-3b923a75f67a127163d2a355178fe8f8 *tests/testthat/test-hilbertd2xy.R
+237315113c307516dcafbf62cebada54 *tests/testthat/test-hilbertd2xy.R
